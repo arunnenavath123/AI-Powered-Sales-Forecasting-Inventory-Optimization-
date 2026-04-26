@@ -41,11 +41,6 @@ To forecast monthly sales using historical data and provide business insights vi
 ✅ **Data-Driven Inventory Decisions**: Predict stock needs ahead of time
 
 
-🙋‍♂️ Author
-Mehfil
-🎓 B.Tech in Artificial Intelligence & Data Science
-📊 Data Analyst | Business Analytics Enthusiast
-📍 Based in India | Seeking roles in UAE
 
 ---
 
